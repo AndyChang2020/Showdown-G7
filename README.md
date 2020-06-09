@@ -1,0 +1,1 @@
+<strong>Pokemon Showdown G7 team featuring Camerupt-Mega under Trick Room</strong>
