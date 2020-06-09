@@ -1,0 +1,61 @@
+Cofagrigus (M) @ Mental Herb  
+Ability: Mummy  
+Shiny: Yes  
+EVs: 252 HP / 180 Def / 72 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Curse  
+- Shadow Ball  
+- Toxic Spikes  
+
+Cresselia @ Wiki Berry  
+Ability: Levitate  
+EVs: 224 HP / 252 Def / 32 SpA  
+Relaxed Nature  
+IVs: 0 Atk / 4 Spe  
+- Trick Room  
+- Toxic  
+- Lunar Dance  
+- Psyshock  
+
+Tapu Bulu @ Choice Scarf  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wood Hammer  
+- Superpower  
+- Horn Leech  
+- Stone Edge  
+
+Magearna @ Fightinium Z  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Thunderbolt  
+- Ice Beam  
+- Trick Room  
+
+Camerupt-Mega (F) @ Cameruptite  
+Ability: Solid Rock  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Earth Power  
+- Flamethrower  
+- Hidden Power [Ice]  
+
+Toxapex (M) @ Black Sludge  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Haze  
+- Toxic  
+- Scald  
+- Recover  
+
